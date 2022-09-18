@@ -24,3 +24,10 @@ Using the defined comands the user can try to kill the goblins as well as inspec
 the creatures life / status. 
 
 The game is run by the file main.py
+
+
+
+**Example View:**</br>
+
+![Screenshot](docs/img/overview.PNG)</br>
+
